@@ -9,7 +9,7 @@ export const RESUME_DATA = {
     "About - WIP",
   summary:
     "Summary - WIP",
-  avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
+  avatarUrl: "https://github.com/d14znet/blog/raw/main/static/bmo.png",
   personalWebsiteUrl: "https://d14znet.github.io/blog-chirpy/",
   contact: {
     email: "test",
