@@ -46,7 +46,7 @@ export const RESUME_DATA = {
       link: "link-to-company",
       badges: ["Remote"],
       title: "Title 1",
-      logo: ,
+      //logo: ,
       start: "start_year",
       end: "end_year",
       description:
@@ -57,7 +57,7 @@ export const RESUME_DATA = {
       link: "link-to-company",
       badges: ["Remote"],
       title: "Title 2",
-      logo: ,
+      //logo: ,
       start: "start_year",
       end: "end_year",
       description:
@@ -78,7 +78,7 @@ export const RESUME_DATA = {
         "Tech 3",
       ],
       description: "This is what the project does",
-      logo: ,
+      //logo: ,
       link: {
         label: "project1-site",
         href: "link-to-project1",
@@ -89,7 +89,7 @@ export const RESUME_DATA = {
       techStack: ["Tech 1", "Tech 2"],
       description:
         "This is what the project does",
-      logo: ,
+      //logo: ,
       link: {
         label: "project2-site",
         href: "link-to-project2",
