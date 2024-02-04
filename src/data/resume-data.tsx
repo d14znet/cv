@@ -105,7 +105,7 @@ export const RESUME_DATA = {
     {
       company: "Maria Luisa Diaz, Übersetzerin (Berlin, Germany)",
       link: "https://www.proz.com/translator/1683988",
-      badges: ["Self-employed, Translation"],
+      badges: ["Self-employed", "Translation"],
       title: "Self-employed translator from English / German to Spanish",
       //logo: ,
       start: "March 2018",
@@ -138,7 +138,7 @@ export const RESUME_DATA = {
     {
       company: "Globaloc GmbH (Berlin, Germany)",
       link: "http://globaloc.de/en/home-en/",
-      badges: ["Translation, Project Management"],
+      badges: ["Translation", "Project Management"],
       title: "Translation Coordinator",
       //logo: ,
       start: "January 2017",
@@ -182,7 +182,7 @@ export const RESUME_DATA = {
     {
       company: "Plinga GmbH (Berlin, Germany)",
       link: "https://plinga.com/de/plinga_games/",
-      badges: ["Internship, Translation"],
+      badges: ["Internship", "Translation"],
       title: "Spanish Localizer Intern",
       //logo: ,
       start: "September 2011",
