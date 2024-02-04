@@ -13,7 +13,7 @@ export const RESUME_DATA = {
   personalWebsiteUrl: "https://d14znet.github.io/blog-chirpy/",
   contact: {
     email: "digidiaz89@gmail.com",
-    //tel: "test",
+    tel: "test",
     social: [
       {
         name: "GitHub",
