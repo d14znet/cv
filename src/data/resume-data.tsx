@@ -104,7 +104,7 @@ export const RESUME_DATA = {
     },
     {
       company: "Maria Luisa Diaz, Übersetzerin (Berlin, Germany)",
-      //link: "https://goodhood.eu/",
+      link: "https://www.proz.com/translator/1683988",
       badges: ["Self-employed, Translation"],
       title: "Self-employed translator from English / German to Spanish",
       //logo: ,
@@ -170,7 +170,7 @@ export const RESUME_DATA = {
     },
     {
       company: "Froschking Internet GmbH (Berlin, Germany)",
-      //link: "https://plinga.com/de/plinga_games/",
+      link: "https://www.facebook.com/FroschkingInternetGmbh/",
       badges: ["Office Management"],
       title: "Office Management",
       //logo: ,
