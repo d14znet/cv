@@ -6,9 +6,9 @@ export const RESUME_DATA = {
   location: "Berlin, Germany, CET",
   locationLink: "https://www.google.com/maps/place/Berlin",
   about:
-    "In-training IT specialist and sysadmin, looking for new projects and challenges in the fields of server administration and automatization.",
+    "Sysadmin - IT Server Administration, specializing in SAP-Basis, Linux Enterprise Servers, automatization and scripting.",
   summary:
-    "From localization to technical support and systems' administration. What drives my career is understanding IT technology to put it to work - optimizing processes, leveraging projects and assuring quality. Open to work in server/infrastructure administration, automatization, devOps",
+    "From localization to technical support and IT systems' administration. What drives my career is understanding IT technology to put it to work - optimizing processes, leveraging projects and assuring quality. Interested in server/infrastructure administration, automatization, devOps, Unix-Systems",
   avatarUrl: "https://github.com/d14znet/blog/raw/main/static/bmo.png",
   personalWebsiteUrl: "https://d14znet.github.io/blog-chirpy/",
   contact: {
@@ -37,7 +37,7 @@ export const RESUME_DATA = {
       school: "Oberstufenzentrum Information and Medical Technology (Berlin, Germany)",
       degree: "IT Specialist in System Integration",
       start: "September 2021",
-      end: "September 2024",
+      end: "July 2024",
     },
     {
       school: "University Pablo de Olavide (Seville, Spain)",
@@ -50,11 +50,22 @@ export const RESUME_DATA = {
     {
       company: "Charité Universitätmedizin - Berlin (Berlin, Germany)",
       link: "https://www.charite.de/",
+      badges: ["SAP-Basis", "Sysadmin"],
+      title: "SAP-Basis IT Administration",
+      //logo: ,
+      start: "July 2024",
+      end: "today",
+      description:
+        "Basis Administration of ECC and S/4 ERP Systems. Basic administration of Oracle and HANA Databases. Automatization of processes using Ansible and Bash Scripting",
+    },
+    {
+      company: "Charité Universitätmedizin - Berlin (Berlin, Germany)",
+      link: "https://www.charite.de/",
       badges: ["Apprenticeship", "Sysadmin"],
       title: "Apprenticeship in SAP-Basis Team",
       //logo: ,
       start: "September 2023",
-      end: "today",
+      end: "July 2024",
       description:
         "Introduction to SAP NetWeaver architecture and to Database administration. Automatization of processes using Ansible and Bash Scripting",
     },
@@ -194,6 +205,8 @@ export const RESUME_DATA = {
   ],
   skills: [
     "Linux / Unix",
+    "SAPTEC",
+    "ADM100",
     "Networking",
     "Cisco CCNA",
     "Ansible",
@@ -204,7 +217,7 @@ export const RESUME_DATA = {
     "Prometheus",
     "Grafana",
   ],
-  projects: [
+  /* projects: [
     {
       title: "Project 1",
       techStack: [
@@ -230,5 +243,5 @@ export const RESUME_DATA = {
         href: "link-to-project2",
       },
     },
-  ],
+  ], */
 } as const;
