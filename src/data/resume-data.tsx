@@ -19,8 +19,7 @@ export const RESUME_DATA = {
         name: "GitHub",
         url: "https://github.com/D14znet",
         icon: GitHubIcon,
-      },
-      
+      }
     ],
   },
   education: [
