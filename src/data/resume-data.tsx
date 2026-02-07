@@ -1,4 +1,4 @@
-import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
+import { GitHubIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
   name: "Marisa Diaz",
@@ -20,16 +20,7 @@ export const RESUME_DATA = {
         url: "https://github.com/D14znet",
         icon: GitHubIcon,
       },
-      {
-        name: "LinkedIn",
-        url: "https://www.linkedin.com/",
-        icon: LinkedInIcon,
-      },
-      {
-        name: "X",
-        url: "https://x.com/",
-        icon: XIcon,
-      },
+      
     ],
   },
   education: [
@@ -50,13 +41,13 @@ export const RESUME_DATA = {
     {
       company: "Charité Universitätmedizin - Berlin (Berlin, Germany)",
       link: "https://www.charite.de/",
-      badges: ["SAP-Basis", "Sysadmin"],
+      badges: ["SAP-Basis", "Sysadmin", "HANA"],
       title: "SAP-Basis IT Administration",
       //logo: ,
       start: "July 2024",
       end: "today",
       description:
-        "Basis Administration of ECC and S/4 ERP Systems. Basic administration of Oracle and HANA Databases. Automatization of processes using Ansible and Bash Scripting",
+        "Basis Administration of ECC and S/4 ERP Systems. Administration of Oracle and HANA Databases. Automatization of processes using Ansible and Bash Scripting",
     },
     {
       company: "Charité Universitätmedizin - Berlin (Berlin, Germany)",
@@ -130,8 +121,8 @@ export const RESUME_DATA = {
       badges: ["Support"],
       title: "Customer Success Manager",
       //logo: ,
-      start: "March 2018",
-      end: "January 2021",
+      start: "August 2017",
+      end: "February 2021",
       description:
         "1st Level Support for German and Spanish customers. Website and app localization from German to Spanish.",
     },
@@ -207,6 +198,10 @@ export const RESUME_DATA = {
     "Linux / Unix",
     "SAPTEC",
     "ADM100",
+    "ADM103",
+    "HANA",
+    "Oracle",
+    "Proxmox",
     "Networking",
     "Cisco CCNA",
     "Ansible",
